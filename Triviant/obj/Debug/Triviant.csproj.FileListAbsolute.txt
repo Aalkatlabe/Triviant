@@ -1,0 +1,7 @@
+C:\Users\Alaa Alkatlabe\Desktop\C# opdrachten\Triviant\Triviant\obj\Debug\Triviant.csprojAssemblyReference.cache
+C:\Users\Alaa Alkatlabe\Desktop\C# opdrachten\Triviant\Triviant\obj\Debug\Triviant.csproj.CoreCompileInputs.cache
+C:\Users\Alaa Alkatlabe\Desktop\C# opdrachten\Triviant\Triviant\bin\Debug\Triviant.exe.config
+C:\Users\Alaa Alkatlabe\Desktop\C# opdrachten\Triviant\Triviant\bin\Debug\Triviant.exe
+C:\Users\Alaa Alkatlabe\Desktop\C# opdrachten\Triviant\Triviant\bin\Debug\Triviant.pdb
+C:\Users\Alaa Alkatlabe\Desktop\C# opdrachten\Triviant\Triviant\obj\Debug\Triviant.exe
+C:\Users\Alaa Alkatlabe\Desktop\C# opdrachten\Triviant\Triviant\obj\Debug\Triviant.pdb
