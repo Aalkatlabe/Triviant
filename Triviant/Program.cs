@@ -8,6 +8,7 @@ namespace Triviant
 {
     class Program
     {
+        //Triviant_Console
         static int Score = 0;
 
         static void Main(string[] args)
@@ -34,10 +35,11 @@ namespace Triviant
             for(int i = 0; i < vragen.Length; i++)
             {
                int teller =i+1;
-                vragen[i].GetAntwoorden();
+                
                 Console.WriteLine($"{"Vraag"} {teller} ");
                 Console.WriteLine(vragen[i].GetTekst());
                 Console.WriteLine("");
+                vragen[i].GetAntwoorden();
                 int Antwoord = int.Parse(Console.ReadLine());
                 switchFunction(Antwoord, vragen[i]);
             }
