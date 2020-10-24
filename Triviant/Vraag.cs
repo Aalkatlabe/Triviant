@@ -12,6 +12,7 @@ namespace Triviant
         public string[] antwoorden;
         public int juisteAntwoord;
         public int Score;
+        public string cacategorie;
 
         public string GetTekst()
         {
